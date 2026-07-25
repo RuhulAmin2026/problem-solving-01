@@ -12,7 +12,7 @@
 //     console.log('i >>', i );
 // }
 
-// console.log('sum =>>', sum);
+// console.log('sum =>>', sum); 
 
 
 // with function
